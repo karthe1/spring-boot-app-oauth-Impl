@@ -12,5 +12,4 @@ public class AuthorizationServerApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
