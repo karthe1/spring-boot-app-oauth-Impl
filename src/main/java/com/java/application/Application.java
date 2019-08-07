@@ -20,6 +20,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+	
 	@RequestMapping("/validateUser")
 	public Principal user(Principal user) {
 		return user;
